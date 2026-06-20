@@ -25,11 +25,11 @@ msc math @ iit delhi · building models that ship
 
 | | project | what it does | links |
 |---|---------|-------------|-------|
-| 🛡️ | **Dark Pattern Detector** | NLP compliance auditor · classifies UI text into 13 CCPA-illegal dark pattern categories · Optuna-tuned XGBoost with SMOTE + precision gate | [`demo`](https://dark-patterns.streamlit.app/) · [`src`](https://github.com/goyashek/dark-pattern-detector) |
-| 💰 | **Tech Salary Advisor** | Indian tech salary predictor · XGBoost R² 0.867 on 88K records · quantifies city cost-of-living adjustments and per-skill salary premiums | [`demo`](https://tech-salary-advisor.streamlit.app/) · [`src`](https://github.com/goyashek/Tech-Salary-Advisor) |
-| ✈️ | **Flight Delay Prediction** | binary delay classifier · strict pre-departure feature set · 6 classifiers benchmarked, XGBoost deployed (ROC-AUC 0.773) | [`demo`](https://flight-delay-xgb.streamlit.app/) · [`src`](https://github.com/goyashek/Flight-Delay-Prediction) |
-| 📖 | **ML Cheat Sheet** | 50+ techniques with a decision wizard — pick the right model for any task · zero deps | [`site`](https://goyashek.github.io/ml-cheat-sheet/) · [`src`](https://github.com/goyashek/ml-cheat-sheet) |
-| 🔤 | **NLP Companion** | 16 NLP concepts with a pipeline diagnostic — built for quick reference | [`site`](https://goyashek.github.io/nlp-companion/) · [`src`](https://github.com/goyashek/nlp-companion) |
+| 🛡️ | **dark-pattern-detector** | nlp compliance auditor · classifies UI text into 13 CCPA-illegal dark pattern categories · Optuna-tuned XGBoost with SMOTE + precision gate | [`demo`](https://dark-patterns.streamlit.app/) · [`src`](https://github.com/goyashek/dark-pattern-detector) |
+| 💰 | **tech-salary-advisor** | indian tech salary predictor · XGBoost R² 0.867 on 88K records · quantifies city cost-of-living adjustments and per-skill salary premiums | [`demo`](https://tech-salary-advisor.streamlit.app/) · [`src`](https://github.com/goyashek/Tech-Salary-Advisor) |
+| ✈️ | **flight-delay-prediction** | binary delay classifier · strict pre-departure feature set · 6 classifiers benchmarked, XGBoost deployed (ROC-AUC 0.773) | [`demo`](https://flight-delay-xgb.streamlit.app/) · [`src`](https://github.com/goyashek/Flight-Delay-Prediction) |
+| 📖 | **ml-cheat-sheet** | 50+ ml techniques with a decision wizard — pick the right model for any task · zero deps | [`site`](https://goyashek.github.io/ml-cheat-sheet/) · [`src`](https://github.com/goyashek/ml-cheat-sheet) |
+| 🔤 | **nlp-companion** | nlp concepts with a pipeline diagnostic — built for quick reference | [`site`](https://goyashek.github.io/nlp-companion/) · [`src`](https://github.com/goyashek/nlp-companion) |
 
 ---
 
