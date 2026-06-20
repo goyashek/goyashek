@@ -10,15 +10,15 @@
 ```
 
 **Machine Learning · NLP · CV**  
-MSc Mathematics @ IIT Delhi · building models that ship
+msc math @ iit delhi · building models that ship
 
 [`portfolio`](https://goyashek.github.io) · [`linkedin`](https://linkedin.com/in/abhishek-goyal-246b30211) · [`x.com`](https://x.com/goyashek)
 
 </div>
 
-- Building ML/NLP projects with  scikit-learn, nltk ,tensorflow ,xgBoost
-- Interested in classical ML, NLP, model deployment and GenAI systems
-- Currently focused on strengthening DL + end-to-end ML engineering
+- building ML/NLP projects with scikit-learn, tensorflow, xgboost, nltk, spacy
+- interested in classical ML, NLP, model deployment and GenAI systems
+- currently focused on strengthening DL + end-to-end ML engineering
 
 ---
 
