@@ -27,6 +27,7 @@
   * **Tech:** Siamese CNN & fine-tuned EfficientNet-B0 + online batch-hard mining.
   * **Result:** Achieved **0.986 ROC-AUC** and mitigated a systemic dataset leak to establish a robust writer-independent evaluation protocol.
   * *[HF Space Demo](https://huggingface.co/spaces/goyashek/signature-forgery-verification)*
+
 * 🛡️ **[Dark Pattern Detector](https://github.com/goyashek/dark-pattern-detector)**
   * **Motive:** Audit and detect CCPA-illegal manipulative UI patterns (dark patterns) on e-commerce platforms to protect consumers.
   * **Tech:** Fine-tuned DistilBERT vs. Optuna-tuned classical models (XGBoost/SVC).
@@ -39,6 +40,7 @@
   * **Tech:** CatBoost regressor optimized with Optuna.
   * **Result:** Achieved **0.8753 R²** on 88K tech worker profiles, mapping compensation across roles and cities.
   * *[Streamlit Demo](https://tech-salary-advisor.streamlit.app/)*
+
 * ✈️ **[Flight Delay Prediction](https://github.com/goyashek/Flight-Delay-Prediction)**
   * **Motive:** Predict flight delays using strictly pre-departure features to serve as a traveler warning system.
   * **Tech:** Benchmark of 6 estimators; deployed pre-departure XGBoost model.
@@ -47,34 +49,25 @@
 
 #### **Interactive Dashboards**
 * 📖 **[ML Cheat Sheet](https://github.com/goyashek/ml-cheat-sheet)**
-  * **Motive:** Create a zero-dependency, rapid-lookup reference tool and decision wizard to help developers select optimal models and validation methods.
-  * **Tech:** Vanilla JS, HSL Tailwind-like CSS variables (no external dependencies).
-  * **Result:** Deployed an interactive dashboard covering 50+ ML techniques.
+  * A zero-dependency, rapid-lookup reference tool and decision wizard to help developers select optimal models and validation methods.
   * *[Live Site](https://goyashek.github.io/ml-cheat-sheet/)*
+
 * 🔤 **[NLP Companion](https://github.com/goyashek/nlp-companion)**
-  * **Motive:** Provide a quick-reference concept companion and pipeline integrity diagnostic quiz for NLP practitioners.
-  * **Tech:** Vanilla JS, styled component cards.
-  * **Result:** Deployed an interactive dashboard covering text preprocessing, word embeddings, and sequences.
+  * It provides a quick-reference concept companion and pipeline integrity diagnostic quiz for NLP practitioners.
   * *[Live Site](https://goyashek.github.io/nlp-companion/)*
 
 ---
 
 ### 🛠️ Skills & Ecosystem
 ```text
-┌─────────────────┬────────────────────────────────────────────────────────┐
-│ Machine Learning│ scikit-learn · Optuna · XGBoost · CatBoost             │
-├─────────────────┼────────────────────────────────────────────────────────┤
-│ Deep Learning   │ PyTorch · TensorFlow · Keras · Hugging Face            │
-├─────────────────┼────────────────────────────────────────────────────────┤
-│ NLP / Text      │ spaCy · NLTK · DistilBERT                              │
-├─────────────────┼────────────────────────────────────────────────────────┤
-│ Deploy & MLOps  │ Streamlit · Hugging Face Spaces · GitHub Pages · DVC   │
-└─────────────────┴────────────────────────────────────────────────────────┘
+┌─────────────────┬────────────────────────────────────────────────┐
+│ Classical ML    │ scikit-learn · Optuna · XGBoost · CatBoost     │
+├─────────────────┼────────────────────────────────────────────────┤
+│ Deep Learning   │ PyTorch · TensorFlow · Keras · Hugging Face    │
+├─────────────────┼────────────────────────────────────────────────┤
+│ NLP / Text      │ spaCy · NLTK · DistilBERT                      │
+├─────────────────┼────────────────────────────────────────────────┤
+│ Deploy & MLOps  │ Streamlit · Hugging Face Spaces · GitHub Pages │
+└─────────────────┴────────────────────────────────────────────────┘
 ```
-
 ---
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=goyashek&theme=nord_dark" height="150" alt="GitHub stats" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=goyashek&hide_border=true&ring=88c0d0&fire=88c0d0&currStreakLabel=88c0d0&sideLabels=eceff4&currStreakNum=eceff4&sideNums=eceff4&dates=d8dee9&background=2e3440" height="150" alt="GitHub streak" style="display: inline-block;" />
-</div>
